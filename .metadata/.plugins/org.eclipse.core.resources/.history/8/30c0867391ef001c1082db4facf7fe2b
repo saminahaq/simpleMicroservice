@@ -1,9 +1,0 @@
-package com.Spring.ExampleAop;
-/*
- * instead of making the config.xml we can create the Beanconfig file for the bean configuration based on the bean
- */
-
-
-public class LoggingAspect {
-
-}

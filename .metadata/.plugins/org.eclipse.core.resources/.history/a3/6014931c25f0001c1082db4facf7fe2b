@@ -1,7 +1,0 @@
-This is basic SpringBoot application
-used these following annotation
-
-1: @Controller //this is old annotation 
-2: @ RestController //this is updated controller this has the response body [always return data e. JPA data etc] in it, 
-		which return [used this]
-3: 

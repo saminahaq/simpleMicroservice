@@ -1,4 +1,0 @@
-Add these following dependencies into the POM.xml
-
-1: <artifactId>aspectjrt</artifactId>
-2: <artifactId>aspectjweaver</artifactId>

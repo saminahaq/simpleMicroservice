@@ -1,5 +1,0 @@
-package ExampleAop;
-
-public class AuthenticationAspect {
-
-}
