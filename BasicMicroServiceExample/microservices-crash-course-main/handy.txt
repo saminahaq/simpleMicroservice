@@ -1,0 +1,18 @@
+user-service
+	port 9001
+
+	/user/1344
+
+contact service
+	port 9002
+
+
+apigateway
+	port 8999
+
+Hystrix-dashboard
+
+	Port 9555
+Eureka server
+
+   port: 8761
